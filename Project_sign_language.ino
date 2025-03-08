@@ -9,8 +9,8 @@
 #include "esp_http_server.h"
 
 // Replace with your network credentials
-const char* ssid = "Ji";
-const char* password = "123456789";
+const char* ssid = "**********";
+const char* password = "*********";
 
 // Define the camera model - AI Thinker ESP32-CAM
 #define CAMERA_MODEL_AI_THINKER
