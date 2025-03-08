@@ -1,1 +1,0 @@
-# ESP32-CAM-AI-Sign-Translator-
