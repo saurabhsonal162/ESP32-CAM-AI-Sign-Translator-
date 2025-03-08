@@ -36,7 +36,7 @@ This project implements a real-time sign language translator using an ESP32-CAM 
    ```
 2. Clone this repository:
    ```bash
-   git clone https://github.com/saurabhsonal162/ESP32-CAM-AI-Sign-Translator.git
+   git clone https://github.com/saurabhsonal162/ESP32-CAM-AI-Sign-Translator-.git
    ```
 3. Upload the ESP32 firmware using Arduino IDE or PlatformIO.
 4. Run the Python script to process video feed and perform sign recognition.
